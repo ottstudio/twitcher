@@ -2,7 +2,7 @@
 
 This privacy policy governs your use of the commercial software application Twitcher ("Application") for iOS that was created by Over The Top Studio. This SERVICE is provided and is intended for use as is.
 
-At Over The Top Studios, one of our main priorities is the privacy of our users. This Privacy Policy outlines any information that is collected and how it is used. Game CallsK does not sell rent or monetize any of your personal data in any way - ever.
+At Over The Top Studios, one of our main priorities is the privacy of our users. This Privacy Policy outlines any information that is collected and how it is used. Twitcher does not sell rent or monetize any of your personal data in any way - ever.
 
 If you have additional questions or require more information about our Privacy Policy, please do not hesitate to contact us.
 
